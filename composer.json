@@ -1,6 +1,6 @@
 {
   "name": "Artel-Studio/laravel-sse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "library",
   "license": "MIT",
   "require": {
@@ -8,6 +8,12 @@
     "illuminate/support": ">=5.1",
     "tonyhhyip/sse": "~2.1"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Artel-Studio/laravel-sse"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Sse\\Laravel\\": "src/"
