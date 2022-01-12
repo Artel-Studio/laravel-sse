@@ -5,7 +5,6 @@
   "license": "MIT",
   "require": {
     "php": ">=7.3.0",
-    "illuminate/support": ">=5.1",
     "tonyhhyip/sse": "~2.1"
   },
   "repositories": [
