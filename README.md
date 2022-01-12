@@ -1,17 +1,15 @@
 # Larave SSE
 
+Fork of https://github.com/tonyhhyip/laravel-sse . Made for Laravel 8.
+
 This library provides Server Sent Event for Laravel using [libSSE-php](https://github.com/tonyhhyip/libSSE-php)
 
-## Supported Laravel Version
-- 5.1 (**Higher Priority**) 
-- 5.2
-- 5.0
 
 ## Install - Composer
 To install Laravel SSE as a Compsoer package to be used in Laravel 5, simply add this to your `composer.json`:
 
 ```json
-"tonyhhyip/laravel-sse": "~1.0"
+"artel-studio/laravel-sse": "~1.0"
 ```
 
 and run `composer update`.
