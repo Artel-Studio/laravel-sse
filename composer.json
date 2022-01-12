@@ -1,10 +1,10 @@
 {
-  "name": "tonyhhyip/laravel-sse",
+  "name": "artel-studio/laravel-sse",
   "version": "1.0.1",
   "type": "library",
   "license": "MIT",
   "require": {
-    "php": ">=5.5.9",
+    "php": ">=7.3.0",
     "illuminate/support": "~5.1",
     "tonyhhyip/sse": "~2.1"
   },
